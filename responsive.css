@@ -7,6 +7,9 @@ body{
     font-family: arial;
     margin: 0;
 }
+h2 {
+    font-style: italic;
+}
 .header {
     padding: 60px;
     text-align: center;
